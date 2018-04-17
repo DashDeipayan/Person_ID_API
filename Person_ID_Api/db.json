@@ -1,0 +1,36 @@
+{
+  "person": [
+    {
+      "ID":1111,
+      "NAME":"Arthur",
+      "Contact_no":999,
+      "Address":"Kolkata"
+    },
+    {
+      "ID":1112,
+      "NAME":"Timother",
+      "Contact_no":995,
+      "Address":"London"
+    },
+    {
+      "ID":1113,
+      "NAME":"Frank",
+      "Contact_no":992,
+      "Address":"New Delhi"
+    },
+    {
+      "ID":1114,
+      "NAME":"Ricky",
+      "Contact_no":991,
+      "Address":"Ranchi"
+    },
+    {
+      "ID":1115,
+      "NAME":"Stuart",
+      "Contact_no":990,
+      "Address":"Mumbai"
+    }
+
+  ]
+
+}
